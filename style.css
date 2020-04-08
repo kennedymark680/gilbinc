@@ -1,10 +1,5 @@
-.header {
-  background-image: url('GIS-SeaWatch2-MARCH14.jpg');
-  background-size: cover;
-  background-position: center;
-}
 h1 {
-  color: rgb(251, 255, 0);
+  color: gray;
   font-family: Arial;
   font-weight: bold;
 }
