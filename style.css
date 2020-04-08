@@ -1,6 +1,6 @@
 .image {
-  Background-size: cover;
-  background-position: center;
+  image-size: cover;
+  image-position: center;
 }
 h1 {
   color: blue;
