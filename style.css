@@ -1,3 +1,5 @@
-p {
-  font-family: Arial;
-  }
+.image {
+  background-image: url:""
+  Background-size: cover;
+  background-position: center;
+}
