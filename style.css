@@ -1,6 +1,7 @@
 .image {
-  image-size: cover;
-  image-position: center;
+  background-image: url("GIS-SeaWatch2-MARCH14.jpg");
+  background-size: cover;
+  background-position: center;
 }
 h1 {
   color: blue;
