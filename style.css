@@ -4,5 +4,7 @@
   background-position: center;
 }
 h1 {
-  color: blue;
+  color: rgb(255, 0, 0);
+  font-family: Arial;
+  font-weight: bold;
 }
