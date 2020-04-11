@@ -1,8 +1,8 @@
 h1 {
-  color: gray;
+  color: rgb(33, 38, 107);
   font-family: Arial;
   font-weight: bold;
 }
-.main-list {
-  color: rgb(189, 106, 52);
+p {
+  color: grey;
 }
