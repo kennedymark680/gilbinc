@@ -52,4 +52,5 @@ ul li a {
 }
 ul li a:hover {
   color: red;
+  font-size: 20px;
 }
