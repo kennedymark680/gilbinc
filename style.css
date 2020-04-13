@@ -21,6 +21,9 @@ color: white
 .heading-image {
   height: 250px;
 }
+.item {
+  background-color: seagreen;
+}
 #nav {
   margin: 0;
   padding: 0;
