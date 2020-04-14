@@ -22,7 +22,9 @@ color: white
   height: 250px;
 }
 #logo {
-  height: 50px;
+  height: 80px;
+  display: inline-block;
+  margin: 20px;
 }
 * {
   margin: 0;
