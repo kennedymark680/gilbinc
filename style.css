@@ -87,10 +87,12 @@ ul li a:hover {
   width: 100%;
 }
 
-.gilbinc {
+.column {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
   background-color: white;
 }
 
-#logo_2 {
+.logo_2 {
   height: 500px;  
 }
