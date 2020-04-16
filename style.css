@@ -96,8 +96,8 @@ ul li a:hover {
 .logo_2 {
   width: 100%;
   height: auto;
-  padding: 20px;
-}
+  background-color: white;
+  }
 
 .quotewrapper {
   display: flex;
