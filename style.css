@@ -76,6 +76,8 @@ ul li a:hover {
   background-color: white;
   padding: 20px;
   margin: 15px;
+  z-index: 1;
+  opacity: .8;
 }
 
 .video-container {
