@@ -42,10 +42,10 @@ ul {
 
 }
 ul li {
-list-style: none;
-display: inline-block;
-float: left;
-line-height: 100px;
+  list-style: none;
+  display: inline-block;
+  float: left;
+  line-height: 100px;
 }
 ul li a {
   display: block;
@@ -92,5 +92,5 @@ ul li a:hover {
 }
 
 .logo_2 {
-  size: 150px;  
+  height: 150px;  
 }
