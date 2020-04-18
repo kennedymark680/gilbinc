@@ -105,6 +105,7 @@ ul li a:hover {
   grid-template-columns: 1fr 1fr;
   background-color: white;
   margin: 75px 0px;
+  padding-left: 50px;
 }
 
 .logo_2 {
