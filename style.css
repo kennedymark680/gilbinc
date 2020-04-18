@@ -3,50 +3,62 @@ h1 {
   font-family: Arial;
   font-weight: bold;
 }
+
 p {
   color: grey;
 }
+
 #about-us {
 background-color: rgb(255, 102, 0);
 color: white
 }
+
 #consulting-highlights {
   background-color: rgb(33, 38, 107);
   color: white
 }
+
 #work-history {
   background-color: rgb(255, 102, 0);
   color: white
 }
+
 .heading-image {
   height: 250px;
 }
+
 #logo {
   height: 50px;
   display: inline-block;
   margin: 20px;
 }
+
 * {
   margin: 0;
   padding: 0;
 }
+
 body {
-  background-color: #eee;
+  background-color: white;
 }
+
 nav {
   width: 100%;
   height: 100px;
-  background-color: white;
+  background-color: #eee;
 }
+
 ul {
 
 }
+
 ul li {
   list-style: none;
   display: inline-block;
   float: left;
   line-height: 100px;
 }
+
 ul li a {
   display: block;
   text-decoration: none;
@@ -55,6 +67,7 @@ ul li a {
   color: rgb(66, 66, 66);
   padding: 0 20px;
 }
+
 ul li a:hover {
   color: red;
 }
