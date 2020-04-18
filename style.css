@@ -114,6 +114,11 @@ ul li a:hover {
 .quotewrapper {
   display: flex;
   justify-content: center;
-  align-items: center;
+  text-align: center;
   padding: 20px;
+}
+
+.quotewrapper h1 {
+  font-family: cursive;
+  font-weight: lighter;
 }
