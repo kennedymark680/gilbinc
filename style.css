@@ -126,5 +126,9 @@ ul li a:hover {
 }
 
 .card {
+  border-radius: 2px;
   box-shadow: 0 1px 6px 0 rgba(0,0,0,.2);
+  padding: 2.5rem 1.5rem;
+  width: 75%;
+  position: relative;
 }
