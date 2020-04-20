@@ -130,7 +130,7 @@ ul li a:hover {
   border-radius: 2px;
   box-shadow: 0 1px 6px 0 rgba(0,0,0,.2);
   padding: 2.5rem 1.5rem;
-  width: 80%;
+  width: 100%;
   position: relative;
   margin: 75px 0 0 50px;
   background-color: #eee;
@@ -149,4 +149,7 @@ ul li a:hover {
   background-size: cover;
 }
 
-.logo
+.wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
