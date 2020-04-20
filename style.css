@@ -39,7 +39,9 @@ color: white
 }
 
 body {
-  background-color: white;
+  background-image: url(./wavecut.png);
+  width: 100vw;
+  height: 100%;
 }
 
 nav {
@@ -155,7 +157,5 @@ ul li a:hover {
 }
 
 .wrapper-background {
-  background-image: url(./wavecut.png);
-  width: 100vw;
-  height: 100%;
+
 }
