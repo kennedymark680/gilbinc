@@ -131,4 +131,10 @@ ul li a:hover {
   padding: 2.5rem 1.5rem;
   width: 75%;
   position: relative;
+  margin: 0 0 0 50px;
+}
+
+.heading-image {
+  width: 100%;
+  height: auto;
 }
