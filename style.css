@@ -138,5 +138,7 @@ ul li a:hover {
 
 .banner-image {
   width: 100%;
-  height: auto;
+  height: 250px;
+  background-image: image(Ship.png);
+  background-position: center;
 }
