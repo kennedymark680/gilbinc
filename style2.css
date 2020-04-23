@@ -48,3 +48,7 @@ ul li {
     left: 0em;
     width: 100%;
   }
+
+  .section h1 {
+      color: white;
+  }
