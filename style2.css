@@ -29,6 +29,7 @@ ul li {
     font-family: Arial;
     color: white;
     padding: 0 20px;
+    opacity: 0.8;
   }
 
   ul li a:hover {
@@ -54,4 +55,6 @@ ul li {
   
   .section h1 {
       color: white;
+      size: 50px;
+      opacity: 0.8;
   }
