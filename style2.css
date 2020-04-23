@@ -39,7 +39,7 @@ ul li {
 .Glogo {
     height: 50px;
     display: inline-block;
-    padding: 50px 0 0 200px;
+    padding: 20px 0px 0px 20px;
   }
 
   .image-container {
@@ -50,7 +50,7 @@ ul li {
   }
 
   .section {
-      padding: 100px 0 0 100px
+      padding: 50px 0 0 100px
   }
   
   .section h1 {
