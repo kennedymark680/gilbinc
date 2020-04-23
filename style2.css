@@ -36,3 +36,14 @@ ul li {
     top: 0em;
     left: 0em;
     width: 100%;
+}
+
+.logo {
+    height: 50px;
+    display: inline-block;
+    padding: 20px 0px 0px 20px;
+  }
+
+  .landing {
+      background-image: url(./Dish.jpg);
+  }
