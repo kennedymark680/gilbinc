@@ -10,7 +10,7 @@ nav {
   }
 
 body {
-    background-image: url(Dish.jpg);
+    background-image: url(./Dish.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
