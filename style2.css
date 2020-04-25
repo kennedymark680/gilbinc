@@ -34,8 +34,8 @@ ul li {
   }
 
   ul li a:hover {
-    background-color: white;
-    border-radius: 2em;
+    border-color: white;
+    border-radius: 2px;
     border-width: 1px;
   }
 
