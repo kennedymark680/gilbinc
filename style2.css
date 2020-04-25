@@ -34,7 +34,9 @@ ul li {
   }
 
   ul li a:hover {
-    color: red;
+    background-color: white;
+    border-radius: 2em;
+    border-width: 1px;
   }
 
 .Glogo {
